@@ -1,0 +1,229 @@
+.moon{
+    height: 100px;
+    width: 100px;
+    background-color: ghostwhite;
+    border-radius: 50%;
+    margin-bottom: 48%;
+}
+@media(max-width:768px){
+    .flex{
+        width: 90%;
+        padding: 10px;
+    }
+
+}
+
+ div{ display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+
+
+    
+ 
+
+
+    
+    
+    .grass{
+        height: 40px;
+        width: 100%;
+        background-color: lawngreen;
+    
+
+        
+    
+    }
+
+     .building1{
+      height: 300px;
+      width: 200px;
+      background-color: brown;
+      
+    
+}
+.building2{
+    height: 150px;
+    width: 200px;
+    background-color: indigo;
+}
+.building3{
+    height: 225px;
+    width: 200px;
+    background-color: darkorange;
+}
+
+    
+    
+    
+    
+    
+    
+.box1{
+    width: 0;
+    height: 40;
+    background-color: black;
+    padding: 0.5em;
+    
+    
+    border: 1px solid #ccc;
+    
+
+}
+.box2{
+    width: 0;
+    height: 40;
+    background-color: black;
+    padding: 0.5em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box3{
+    width: 0;
+    height: 40;
+    background-color: black;
+    padding: 0.5em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box4{
+    width: 0;
+    height: 40;
+    background-color: black;
+    padding: 0.5em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box5{
+    width: 0;
+    height: 40;
+    background-color: black;
+    padding: 0.5em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box6{
+    width: 0;
+    height: 40;
+    background-color: black;
+    padding: 0.5em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box7{
+    width: 0;
+    height: 40;
+    background-color: black;
+    padding: 0.5em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box8{
+    width: 0;
+    height: 40;
+    background-color: black;
+    padding: 0.5em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box9{
+    width: 0;
+    height: 50;
+    background-color: black;
+    padding: 1em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box10{
+    width: 0;
+    height: 50;
+    background-color: black;
+    padding: 1em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box11{
+    width: 0;
+    height: 50;
+    background-color: black;
+    padding: 1em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+
+}
+.box12{
+    width: 0;
+    height: 50;
+    background-color: black;
+    padding: 1em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+
+}
+.box13{
+    width: 0;
+    height: 50;
+    background-color: black;
+    padding: 1em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+
+}
+.box14{
+    width: 0;
+    height: 50;
+    background-color: black;
+    padding: 1em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+
+}
+.box15{
+    width: 0;
+    height: 50;
+    background-color: black;
+    padding: 1.3em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+
+}
+.box16{
+    width: 0;
+    height: 50;
+    background-color: black;
+    padding: 1.3em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box17{
+    width: 0;
+    height: 50;
+    background-color: black;
+    padding: 1.3em;
+    margin: 20px;
+    border: 1px solid #ccc;
+
+}
+.box18{
+    width: 0;
+    height: 50;
+    background-color: black;
+    padding: 1.3em;
+    margin: 20px;
+    border: 1px solid #ccc;
+}}
